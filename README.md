@@ -1,2 +1,2 @@
 # oncoding
-based on algo and data.
+based on algo and data algorithem.
